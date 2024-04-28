@@ -1,6 +1,10 @@
 # SnakeAndLadder
 Design Snake And Ladder | Machine Coding Round Questions 
-Problem Statement
+
+Problem Statement: https://workat.tech/machine-coding/practice/snake-and-ladder-problem-zgtac9lxwntg
+
+Video Explanation Link : https://youtu.be/rwBmrSfRP0Y
+
 Create a snake and ladder application. The application should take as input (from the command line or a file):
 
 Number of snakes (s) followed by s lines each containing 2 numbers denoting the head and tail positions of the snake.
